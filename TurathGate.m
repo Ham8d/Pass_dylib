@@ -11,7 +11,7 @@
 
 // ── رابط زر "ادخل هنا للحصول على رمز الدخول" ──
 // ▼▼▼ ضع رابطك هنا بين علامتي الاقتباس ▼▼▼
-#define CODE_LINK @"https://t.me/Alturathvbot?start=btn_bmrca92bir4h"
+#define CODE_LINK @"https://t.me/Alturathvbot?start=btn_bmrezwiozbzk"
 // ▲▲▲ غيّر الرابط في أي وقت من هنا فقط ▲▲▲
 
 // ── اسم المتجر في الشاشة ──────────────────────
