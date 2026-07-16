@@ -4,14 +4,14 @@
 // ╚══════════════════════════════════════════════╝
 
 // ── رمز الدخول (غيّره من هنا) ─────────────────
-#define PASSCODE  @"001133"
+#define PASSCODE  @"11233"
 
 // ── رابط تيليغرام ──────────────────────────────
 #define TELEGRAM  @"https://t.me/turath_st"
 
 // ── رابط زر "ادخل هنا للحصول على رمز الدخول" ──
 // ▼▼▼ ضع رابطك هنا بين علامتي الاقتباس ▼▼▼
-#define CODE_LINK @"https://t.me/Alturathvbot?start=btn_bmrm5saxnucg"
+#define CODE_LINK @"https://t.me/Alturathvbot?start=btn_bmrnvnglk9b4"
 // ▲▲▲ غيّر الرابط في أي وقت من هنا فقط ▲▲▲
 
 // ── اسم المتجر في الشاشة ──────────────────────
